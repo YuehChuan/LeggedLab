@@ -37,10 +37,11 @@ LeggedLab is built against the latest version of Isaacsim/IsaacLab. It is recomm
 
 ```bash
 # Option 1: HTTPS
-git clone https://github.com/Hellod035/LeggedLab
+git clone https://github.com/YuehChuan/LeggedLab
 
-# Option 2: SSH
-git clone git@github.com:Hellod035/LeggedLab.git
+
+(original)git clone https://github.com/Hellod035/LeggedLab
+
 ```
 
 - Using a python interpreter that has Isaac Lab installed, install the library

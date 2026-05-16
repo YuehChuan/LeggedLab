@@ -137,7 +137,7 @@ H1_CFG = ArticulationCfg(
 
 G1_CFG = ArticulationCfg(
     spawn=sim_utils.UsdFileCfg(
-        usd_path=f"{ISAAC_ASSET_DIR}/unitree/g1/g1.usd",
+        usd_path=f"{ISAAC_ASSET_DIR}/unitree/g1/g1_body29.usd", #g1.usd
         activate_contact_sensors=True,
         rigid_props=sim_utils.RigidBodyPropertiesCfg(
             disable_gravity=False,
