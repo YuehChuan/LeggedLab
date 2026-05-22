@@ -1,5 +1,7 @@
 # Legged Lab: Direct IsaacLab Workflow for Legged Robots
-
+    
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/YuehChuan/LeggedLab)
+    
 [![IsaacSim](https://img.shields.io/badge/IsaacSim-4.5.0-silver.svg)](https://docs.omniverse.nvidia.com/isaacsim/latest/overview.html)
 [![Isaac Lab](https://img.shields.io/badge/IsaacLab-2.1.0-silver)](https://isaac-sim.github.io/IsaacLab)
 [![RSL_RL](https://img.shields.io/badge/RSL_RL-2.3.1-silver)](https://github.com/leggedrobotics/rsl_rl)
